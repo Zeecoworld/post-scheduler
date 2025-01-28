@@ -1,0 +1,1 @@
+celery -A postschedulerproject worker -l info
